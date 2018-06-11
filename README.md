@@ -1,4 +1,4 @@
-tingray & MuMuDVB
+Stingray & MuMuDVB
 
 Download Raspbian image and format SD card
 ```
